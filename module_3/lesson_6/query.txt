@@ -1,0 +1,40 @@
+-- not null
+
+create table if not exists school(
+    id uuid primary key default gen_random_uuid(),
+    name varchar(255) not null
+);
+
+
+
+create table if not exists school(
+    id uuid primary key default gen_random_uuid(),
+    name varchar(255) not null ,
+    description text null,
+    phone varchar(255) not null,
+    address json
+);
+
+insert into school (name, description, phone, address) values ( '311 school', 'Poisoning by liquefied petroleum gas distributed in mobile containers, undetermined whether accidentally or purposely inflicted', '(487) 3177553', '{"region":"Tashken", "district":"sergili 4A"}');
+insert into school (name, description, phone, address) values ( 'Mat Lam Tam', 'Disruption of perineal wound, postpartum condition or complication', '(372) 9315954', '{"region":"Tashken", "district":"sergili 10p"}');
+insert into school (name, description, phone, address) values ( 'Asoka', 'Antenatal screening for raised alpha-fetoprotein levels in amniotic fluid', '(297) 3993988', '{"region":"Tashken", "district":"sergili 9a"}');
+insert into school (name, description, phone, address) values ( 'Lotlux', 'Poor aesthetics of existing restoration', '(868) 9026348', '{"region":"Tashken", "district":"sergili 8A"}');
+insert into school (name, description, phone, address) values ( 'Y-find', 'Abdominal rigidity, generalized', '(174) 1712856', '{"region":"Tashken", "district":"sergili 5B"}');
+
+
+create table if not exists students(
+    id serial primary key ,
+    name varchar(255) not null ,
+    address varchar(255) not null,
+    schoolID uuid,
+    constraint fk_school
+        foreign key (schoolID) references school(id)
+            on delete cascade
+);
+
+
+insert into students(name, address, schoolID)
+values ('Komil' , 'Tashkent sergili 5a kv-22' , '1211b9ad-d65b-4596-8f68-f0a6cee0330d');
+
+insert into students(name, address, schoolID)
+values ('Komil' , 'Tashkent sergili 5a kv-22' , '1211b9ad-d65b-4596-8f68-f0a6cee0330a')

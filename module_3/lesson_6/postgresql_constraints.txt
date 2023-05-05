@@ -1,0 +1,47 @@
+
+CONSTRAINTS - > cheklovlar
+
+postgresql:
+        1)
+
+            database CONSTRAINTS:
+                3) not null constraint - bo'sh bo'lmaslik cheklovi
+                2) unique constraint - yagonalik cheklovi
+                1) check constraint - shart orqali cheklash
+                4) primary key   - not null va unique kombinatsiyasidan hosil bo'ladi
+                5) foreign key   - boshqa tabledagi key
+
+
+amaliy topshiriq :
+
+    1) telegramda tashab beriladi
+
+
+qo'shimcha tg bot:
+    online shop database ni qurib chiqamiz
+
+
+
+uyga vazifa :
+    o'quv markaz uchun  -> database schema create
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

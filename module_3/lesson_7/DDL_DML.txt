@@ -1,0 +1,38 @@
+
+postgresql:
+        1)
+
+            database da query turlari:
+
+                -- for tables and database --
+                1) CREATE ->
+                2) DROP -> DROP TABLE [IF EXISTS] table_name_1, table_name_2, ... [CASCADE | RESTRICT];
+
+
+                -- for dates --
+                1) SELECT ->
+                2) INSERT -> returning fields
+                3) UPDATE -> UPDATE table_name SET column1 = value1, column2 = value2, ... WHERE condition;
+                4) DELETE -> DELETE FROM table_name WHERE condition RETURNING (select_list | *)
+
+
+
+darsdagi topshiriq :
+    1) database va python o'rtasida connection yaratish
+    2) select , insert , update , delete methodlar ni yaratish (UNVERSAL TABLE uchun)
+
+
+1) qo'shimcha :
+    1) hashing
+
+
+uyga vazifa :
+
+    1) https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
+    2) yuqoridagi link orqali o'tib dvdrental sxemani clon qilish
+    3) https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-select/
+    4) https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-insert/
+    5) https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-update/
+    6) https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-delete/
+
+

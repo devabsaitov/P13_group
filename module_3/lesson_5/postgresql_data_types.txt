@@ -1,0 +1,85 @@
+
+postgresql:
+
+    Ушбу дарсимизда маълумотларни бирлаштиришда ишлатиладиган
+
+        1) SQL (RDBMS) va NoSql different between
+
+        2)
+
+            postgresql data types:
+
+                Boolean -> boolean
+                           bool
+
+                Character -> CHAR(n)      char(255)   "john      "
+                          -> VARCHAR(n)   varchar(255)   "john"
+                          -> TEXT                unlimited
+
+                Numeric   -> SMALLINT (-32_768 && 32_767)
+                          -> INTEGER  ( -2_147_483_648 &&  2_147_483_647)
+                          -> SERIAL (AUTOINCREMENT)   1,2,3,4,5
+
+                Floating  -> float(n)
+                          -> real
+                          -> float8
+
+                Uuid      -> uuid
+
+                Json      -> json
+
+                    INSERT INTO orders (order_id, customer_id, items)
+                    VALUES (1, 123, '[
+                        {"sku": "ABC123", "name": "Product 1", "price": 9.99},
+                        {"sku": "DEF456", "name": "Product 2", "price": 14.99, "color": "blue", "size": "medium"}
+                    ]');
+
+    type lar bilan tanishamiz
+
+amaliy topshiriq :
+
+    1) telegramda tashab beriladi
+
+qo'shimcha tg bot:
+    1) malumotlarni boshqarish (state , memory storage)
+    2) telefon nomerlarni , location , rasm , url
+
+
+
+
+uyga vazifa :
+    USERS (id , fullname , username(unique) , password , role)
+
+    Online shop
+
+    1) Login Register (tg bot ,try exception , decorator, uuid, password hashing) -> clean code
+
+    2) Menu:
+        Customer For:
+            Shop 🛍   | Me Cart 🛒
+            MyAccount | Contact Us 📞
+
+        Merchant For:
+
+            Product 📦 | MySales 💲🛍
+            MyAccount  | Contact Us 📞
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

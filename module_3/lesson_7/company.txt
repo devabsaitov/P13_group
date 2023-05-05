@@ -1,0 +1,111 @@
+
+insert into company (name, country, address) values ('Vitz', 'Montenegro', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Thoughtblab', 'Tanzania', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Pidope', 'China', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Browsecat', 'Kenya', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Realmix', 'Colombia', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Kayveo', 'Sweden', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Tazzy', 'Ethiopia', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Chatterpoint', 'China', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Fanoodle', 'China', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Npath', 'Ukraine', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Babbleblab', 'Myanmar', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Oozz', 'France', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Gigaclub', 'Czech Republic', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Voonte', 'Argentina', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Youspan', 'Philippines', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Quatz', 'Russia', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Gabtune', 'Zambia', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Chyte', 'Indonesia', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Fare', 'Ukraine', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Mymm', 'Pakistan', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Muyf', 'Indonesia', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Skynoodle', 'Japan', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Oba', 'China', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Meedoo', 'China', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Wikizz', 'Vietnam', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Reallinks', 'El Salvador', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Oloo', 'China', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Kanoodle', 'France', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Kwideo', 'China', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Babbleset', 'China', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Vinte', 'Russia', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Yabox', 'Philippines', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Mycat', 'Canada', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Oyondu', 'Croatia', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Meezzy', 'Indonesia', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Opiu', 'Serbia', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Zoomlounge', 'Eritrea', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Blogtags', 'United States', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Realbridge', 'Vietnam', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Centidel', 'Indonesia', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Jaxbean', 'Thailand', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Camido', 'Colombia', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Eadel', 'China', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Feedfire', 'Philippines', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Kioo', 'Czech Republic', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Fliptune', 'Japan', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Oyoba', 'Colombia', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Quinu', 'Russia', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Roomm', 'Kazakhstan', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Aimbu', 'South Africa', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Tres', 'Peru', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Twitternation', 'Philippines', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Realblab', 'Brazil', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Dablist', 'Colombia', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Buzzdog', 'Japan', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Dazzlesphere', 'Sweden', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Livepath', 'China', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Kazio', 'China', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Abata', 'China', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Dabtype', 'Philippines', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Vrt', 'Mongolia', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Browsedrive', 'Chile', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Gabcube', 'Norway', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Skibox', 'Portugal', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Dabshots', 'Nicaragua', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('JHhjv', 'Cuba', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Skaboo', 'Japan', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Yambee', 'Colombia', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Zooxo', 'China', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Zooveo', 'Brazil', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Aimbu', 'Canada', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Livefish', 'Czech Republic', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Gabcube', 'Indonesia', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Skipfire', 'Indonesia', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Devify', 'Indonesia', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Thoughtbridge', 'Greece', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Ooba', 'Philippines', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Trudoo', 'Japan', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Topicshots', 'China', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Meevee', 'South Africa', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Kare', 'Argentina', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Skyvu', 'Laos', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Zoonder', 'China', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Quye', 'Philippines', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Yombu', 'China', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Thoughtbeat', 'United States', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Voonyx', 'Brazil', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Skibox', 'Canada', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Flashdog', 'Russia', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Omba', 'Japan', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Meembee', 'China', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Ykn', 'Indonesia', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Dablist', 'Bangladesh', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Skipstorm', 'New Zealand', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Mynte', 'Japan', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Wikibox', 'Japan', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Shuffletag', 'China', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Linktype', 'Fiji', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Photojam', 'Portugal', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+insert into company (name, country, address) values ('Twinder', 'Portugal', '{"city":"Tashkent", "street": "Oydin", "Kv" :  "22"}');
+
+
+
+
+
+
+
+
+
+

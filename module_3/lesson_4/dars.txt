@@ -1,0 +1,90 @@
+2 ta misol:
+    1) https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true
+    2) https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true
+
+sqlite3:
+
+    Ушбу дарсимизда маълумотларни бирлаштиришда ишлатиладиган
+            "UNION" ,
+             "Ichki so'ro'vlar" -> subquery,
+             REGEXP ,
+             len ,         (python -> len())
+             substring ,   (str -> 'asdf'[3:6])
+             left ,
+             right,
+             replace       (str -> replace())
+             ltrim         (str -> lstrip())
+             rtrim         (str -> rstrip())
+             upper
+             lower
+             round
+             ceil
+             floor
+
+    оператори билан танишамиз.
+
+amaliy topshiriq :
+
+
+
+
+    1) hodimlar(employees) degan tabledan 'Yombu' companiyasida ishlidigan hodimlarni hamma malumotlarini chiqaring
+    2) rasmlar(images) degan tabledan 'Stefa' ismi bilan boshlanadigan hodimlarni rasmlarini hamma malumotlarini chiqaring
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    -regexp-
+    1) https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true
+    2) https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true
+    3) https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true
+    4) https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true
+
+    7) https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true
+    8) https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true
+    9) https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true
+    10) https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true
+
+
+qo'shimcha tg bot:
+    telegram bot:
+        filtrlash usullari
+        vaqt qolsa -> (rasm , phone , location , malumotlarini to'gri olish)
+
+uyga vazifa :
+
+    1) https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true
+    2) https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true
+    3) https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true
+    4) https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true
+    5) https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true
+
+
+
+
+
+
+
+
+
+
+
+
+
+

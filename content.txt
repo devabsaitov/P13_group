@@ -1,0 +1,7 @@
+1)iterator va generator
+2)Decorator
+3)pip va env
+4) sana va vaqt bilan ishlash
+5)CAPI , SWIG
+6)Email bilan ishlash
+7)Json va Xmllar

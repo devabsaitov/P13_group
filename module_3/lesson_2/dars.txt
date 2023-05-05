@@ -1,0 +1,42 @@
+3 ta misol :
+    1) https://leetcode.com/problems/two-out-of-three/
+
+sqlite3:
+    Ушбу дарсимизда SELECT оператори билан янада чуқурроқ танишамиз.
+    Дарсда - >date() , datetime(), LIKE, AND ва OR ,LIMIT, OFFSET, DISTINCT, CASE ва IS NULL
+    операторларини SELECT сўровида ишлатишни ўрганамиз.
+
+
+offset
+
+amaliy topshiriq :
+
+    1) hodimlar(employees) degan table dan 2000-yilda tug'ilgan hodimlarni hamma ustun malumotlarini oling
+    2) hodimlar(employees) degan table dan country , city va address ustunlarini birlashtirib ustun nomini full_address deb hamma malumotni oling
+    3) yuboruvchilar(suppliers) degan table dan Russian bilan China davlatida bulgan yuboruvchilarni hamma ustun malumoti olinsin
+    4) mahsulotlar(products) degan table dan muddati juda o'tib ketgan mahsulotlarni top 10 tasini - mahsulot_nomi , muddati degan ustunlaridagi malumotlarini oling
+    5) mahsulotlar(products) degan table dan nechta davlatdan mahsulot ishlab chiqariladi sonini so'rov yozib (ustun nomini 'davlatlar soni') topamiz
+    6) yuboruvchilar(suppliers) degan table dan country ustumidagi malumot 'China' bo'lsa oldi tomoniga 'Made in China' deb yozib malumotni olamiz
+    7) hodimlar(employees) degan table dan 'postal_code'='Null' bo'lganlarini 'id' sini orderlab chiqarishimiz kerak
+
+
+terminalda sqlite bilan ishlash:
+    1) table yaratish
+    2) malumot qushish
+    2) backup olish (tushuncha xosil qilish)
+
+uyga vazifa :
+
+    1) https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true
+    2) https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true
+    3) https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true
+    4) https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true
+    5) https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true
+    6) https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true
+    7) https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true
+    8) https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true
+
+
+
+
+

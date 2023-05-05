@@ -1,0 +1,10 @@
+git config --global user.name "devabsaitov"
+git config --global user.email "absaitovdev@gmail.com"
+
+ssh -T git@github.com
+
+
+ssh-keygen -t rsa -b 4096 -C "absaitovdev@gmail.com"
+
+
+cat ~/.ssh/id_rsa.pub

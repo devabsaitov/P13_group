@@ -1,0 +1,64 @@
+3 ta misol :
+    1)https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/
+    2)https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+    3)https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/
+
+
+'' != Null
+sqlite3:
+    DISTINCT , like, case , is null , as , where , order by ,  count , limit , offset
+
+    Ушбу дарсимизда маълумотларни бирлаштиришда ишлатиладиган
+            'JOIN',
+            'INNER JOIN' ,
+            'LEFT JOIN' ,
+            'RIGHT JOIN'
+
+            'sum'
+                'group by'
+            'count'
+                'group by'
+            'ceil'
+            'round'
+            'floor'
+
+    оператори билан танишамиз.
+
+amaliy topshiriq :
+
+    1) hodimlar(employees) kompaniya(company) degan table larni birlashtiring va hodimlar degan table dan
+
+                || (employees) ->  hamma ustunlari malumotlari ,  (company)->  qaysi davlatda ishletganligi ||
+
+    2) kompaniya(company) hodimlar(employees) degan table larni birlashtiring va
+
+                || companya nomi ,  companyada nechta hodim ishlashi ||
+
+    3) rasmlar(images) hodimlar(employees) degan table larni birlashtiring va
+
+                || hodimlar ismi , hodimlarga tegishli shaxsiy rasmlari soni ||
+
+
+
+takrorlash :
+    venv
+    topshiriq:
+
+        1) 3 ta venv yaratamiz : test1 , test2, test3
+        2) yaratilgan vertualkalarni har biriga ketma ket activatsiya qilib "aiogram ni -> test2" , "pillow -> test1" va "tkinter -> test3" kutibxonalarini o'rnatamiz !
+
+uyga vazifa :
+
+    0) https://database.guide/sql-joins-tutorial/   -> read !
+    1) https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true
+    2) https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true
+    3) https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true
+    4) https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true
+    5) https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true
+    6) https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true
+
+
+
+
+
+

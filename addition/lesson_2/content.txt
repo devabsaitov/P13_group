@@ -1,0 +1,9 @@
+1) @multiply_by(3)
+                def add(a, b):
+                return a + b
+           add(3,4)
+           natija : 21
+
+
+        2) shunday decorator yaratingki role = 'ADMIN' bulsa asosiy funksiya ishlasin (asosiy funksiya qaterish kerak : Hello Admin)
+        3) shunday decorator yaratingki foydalanuvchi ro'yhatdan o'tayotganda email ini kiritganda email ga code yuborsin va emailga yuborilgan code ni foydalanuvchidan so'rasin agar u to'g'ri bulsa asosiy function ishlasin

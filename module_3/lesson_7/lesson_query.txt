@@ -1,0 +1,24 @@
+
+create table if not exists company(
+    id serial primary key ,
+    name varchar(255),
+    country varchar(100),
+    address json
+);
+
+drop table if exists company cascade;
+
+select com.* from company com;
+
+insert into company( name, country, address)
+values ( 'Kamol' , 'Uzbekistan' ,
+        '{"city":"Tashkent" , "street":"Oydin mahhall" , "Kv": "22"}')
+returning *;
+
+
+select address ->> 'city' as "shaxar nomi" from company where id =3;
+
+-- UPDATE company SET  id =6 , name = '';
+
+
+-- how to use update postgres
