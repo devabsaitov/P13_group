@@ -13,7 +13,6 @@ sqlite3:
             'INNER JOIN' ,
             'LEFT JOIN' ,
             'RIGHT JOIN'
-
             'sum'
                 'group by'
             'count'

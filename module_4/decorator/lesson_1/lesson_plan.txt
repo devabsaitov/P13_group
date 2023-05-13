@@ -1,0 +1,58 @@
+1)
+            matrix = [
+             [9, 2, 3, 5],  # 19
+             [5, 8, 2, 1],  # 16
+             [1, 6, 8, 2],  # 17
+            ]
+
+2)
+            nums = [1, 1, 0, 1, 1 ,1, 1, 1, 1, 0 ,1 , 1, 1, 0, 1]    eng kup qatnashgan 1 lar uzunligini topamiz
+3)
+
+            n = 122122   bo'linuvchilarni topish kerak
+
+
+PYTHON and TG-BOT:
+
+    1) decorator (@wraps)
+    2) tg-bot
+
+qo'shimcha sifatida:
+
+    1) json
+    2) httpx
+
+
+
+Uyga vazifa:
+
+    1) o'rganish uchun texnalogiya : aiogram tutorial
+
+    2) n = 210   bo'linuvchilarni topish kerak
+
+        javob : 2(1) 3(1) 5(1) 7(1)
+
+    3) @time_func -> ishlatib kelish
+        def lyboy_func(n):
+            pass
+
+        print(lyboy_func(20))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

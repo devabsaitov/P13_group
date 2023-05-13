@@ -1,0 +1,70 @@
+
+postgresql:
+
+        1) SEQUENCE -> INCREMENT , START , MINVALUE , MAXVALUE , CYCLE
+        2) rename column -> ALTER TABLE table_name RENAME COLUMN column_name TO new_column_name;
+        3) add column -> ALTER TABLE table_name ADD COLUMN new_column_name data_type constraint;
+        4) drop column -> ALTER TABLE table_name DROP COLUMN column_name;
+        5) ALTER TABLE table_name ALTER COLUMN column_name1 TYPE new_data_type;
+        6) terminalda postgres ni -> status , start , stop
+        7) create role -> https://www.postgresql.org/docs/current/sql-createrole.html
+
+
+darsdagi topshiriq :
+    1) dvdrental schema dan task beriladi
+
+
+1) qo'shimcha :
+
+    1) linux commands ->
+            ls ,dir -> papkadagi ichidagi papka , filearni ko'rsatadi
+            cd -> pazitsiyani o'zgartiradi
+            clear -> terminaldi tozalidi
+            mkdir -> papka yaratadi , lekin file yaratmidi
+            cat -> read qiladi , lekin papkaga ishlamidi
+            touch -> file yaratadi , lekin papka yaratmidi
+            rm -> file o'chiradi , lekin papkani o'chirmidi
+            rmdir -> papkani o'chiradi , file uchun ishlamidi
+            mv -> file yoki papkani joyini o'zgartirish
+            man -> commandalar haqida info(malumot)
+            history -> yozilgan commandalar ro'yhati
+
+
+    2) time -> https://www.tutorialspoint.com/python/time_strftime.htm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+touch , rm -> file
+
+mkdir , rmdir -> papka , directory
+
+
+
+
+
+

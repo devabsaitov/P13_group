@@ -1,0 +1,23 @@
+
+"""
+
+1)  json
+    httpx
+    decorator
+    telegram bot
+    (git hub branch)
+
+3)  linux command
+    yml file
+    docker (Dockerfile , docker-compose)
+
+
+2)  threading
+    (multiprocessing,
+    async)
+
+
+4) sqlalchemy
+   pydantic
+
+"""

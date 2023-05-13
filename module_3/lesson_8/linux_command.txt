@@ -1,0 +1,93 @@
+ 1941  clear
+ 1942  ls
+ 1943  clear
+ 1944  pwd
+ 1945  ls
+ 1946  dir
+ 1947  ls -a
+ 1948  ls
+ 1949  ls -a
+ 1950  ls
+ 1951  dir
+ 1952  ls
+ 1953  clear
+ 1954  cd
+ 1955  cd .
+ 1956  cd ..
+ 1957  pwd
+ 1958  dir
+ 1959  cd dilsh
+ 1960  cd dilshod/
+ 1961  pwd
+ 1962  cd ../..
+ 1963  pwd
+ 1964  ls
+ 1965  cd home/
+ 1966  cd dilshod/
+ 1967  dir
+ 1968  cd PycharmProjects/
+ 1969  cd /
+ 1970  pwd
+ 1971  cd home/dilshod/PycharmProjects/
+ 1972  cd /home/dilshod/
+ 1973  cd pwd
+ 1974  pwd
+ 1975  cd .
+ 1976  dir
+ 1977  cd PycharmProjects/
+ 1978  dir
+ 1979  cd P13_group/
+ 1980  dir
+ 1981  cd module_3/
+ 1982  dir
+ 1983  mkdir mkdir test
+ 1984  ls
+ 1985  rm mkdir
+ 1986  rmdir mkdir
+ 1987  ls
+ 1988  clear
+ 1989  ls
+ 1990  cd lesson_
+ 1991  cd lesson_1
+ 1992  ls
+ 1993  cd ..
+ 1994  cd test
+ 1995  touch test.py
+ 1996  ls
+ 1997  cat test.py
+ 1998  --help
+ 1999  sudo --help
+ 2000  clear
+ 2001  cat test.py
+ 2002  test.py -e
+ 2003  rm test.py
+ 2004  touch new_test.py
+ 2005  rm new_test.py
+ 2006  cat > new_test.py
+ 2007  ls
+ 2008  cat new_test.py
+ 2009  rm new_test.py
+ 2010  clear
+ 2011  ls
+ 2012  cat > main.py
+ 2013  nano main.py
+ 2014  nano main.py
+ 2015  cat main.py
+ 2016  clear
+ 2017  ls
+ 2018  mv main.py ..
+ 2019  ls
+ 2020  cd ..
+ 2021  ls
+ 2022  cd /home/dilshod/
+ 2023  clear
+ 2024  man cat
+ 2025  man cd
+ 2026  man touch
+ 2027  man mkdir
+ 2028  clear
+ 2029  history
+ 2030  history all
+ 2031  history -all
+ 2032  history --all
+ 2033  history
