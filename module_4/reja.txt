@@ -6,6 +6,7 @@
     decorator
     telegram bot
     (git hub branch)
+    web scraping
 
 3)  linux command
     yml file

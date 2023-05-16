@@ -23,7 +23,6 @@ qo'shimcha sifatida:
     2) httpx
 
 
-
 Uyga vazifa:
 
     1) o'rganish uchun texnalogiya : aiogram tutorial

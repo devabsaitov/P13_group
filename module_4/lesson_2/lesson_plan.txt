@@ -1,0 +1,39 @@
+1)
+            scope = "()(()("
+
+
+TG-BOT:
+
+    1) tg-bot  (reply , answer , send_message)  (message , photo , video , gif , sticker , document , audio)
+    2) edit message
+
+
+amaliy qiladigan ish :
+    1) calculator
+
+Uyga vazifa:
+
+    1) shunday bo't yarataylik pdf fileni botga tashaganimizda ichidagi rasmlarni ajratib foydalanuvchiga tashab bersin
+    2) Bot_ToDo qilinadigan vazifalarni botga saqlab quyish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
