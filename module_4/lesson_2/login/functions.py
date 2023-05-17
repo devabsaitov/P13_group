@@ -7,7 +7,7 @@ async def start_handler(msg: types.Message, state : FSMContext):
     await msg.answer("Username 👇")
 
 
-async def username_handler(msg : types.Message, state : FSMContext):
+async def username_handler(msg : types.Message, state: FSMContext):
     async with state.proxy() as storage:
         storage['username'] = msg.text
     await state.set_state('password_set')

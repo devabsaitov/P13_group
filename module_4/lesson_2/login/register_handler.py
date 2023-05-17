@@ -3,7 +3,7 @@ import logging
 
 from aiogram import Bot , Dispatcher , executor , types
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
-
+from aiogram.contrib.fsm_storage.redis import RedisStorage
 
 from module_4.lesson_2.login.functions import start_handler, username_handler, password_handler
 
