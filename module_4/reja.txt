@@ -14,8 +14,7 @@
 
 
 2)  threading
-    (multiprocessing,
-    async)
+    (multiprocessing, async)
 
 
 4) sqlalchemy
