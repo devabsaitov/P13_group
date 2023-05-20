@@ -1,8 +1,31 @@
-Diyorbek -> Kamron , Mirahmad       -> PEP8
+Diyorbek -> Kamron , Mirahmad       -> PEP8     ✅
 Muhammad -> Abdulhafiz , Zikrillo   -> csv , yml , excel
 Ozod -> Abdulboriy , Mirjalol       -> regexp
 Usmonjon -> Davron , Bek            -> PIl
 Zokir -> Tamanno , Abdusalom        -> pydantic
 
 
+Diyorbek -> Kamron , Mirahmad  -> Testing
+
+
 canvas
+crontab
+Debuging
+Metaprograming
+Web scraping
+Performance Optimization
+Packaging and Distribution
+Concurrency and Parallelism
+Security and Cryptography
+Advanced File Handling
+Big Data and Data Processing
+Neural Networks and Deep Learning
+Profiling and Optimization
+Scripting and Automation
+Data Serialization
+Testing Frameworks and Techniques
+Internationalization and Localization
+Functional Programming Libraries
+Design Patterns
+Image and Video Processing
+Cython

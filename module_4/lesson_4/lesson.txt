@@ -1,0 +1,63 @@
+1)
+
+    1)     matn = "python java c++ javaPHP"
+           b = 'java'
+
+                    javobi : "python java c++  PHP"
+
+
+
+Web-Scraping:
+
+    request methods : post , get , delete , put , patch
+    IP -> 127.0.0.1 = localhost
+    domain -> kun.uz
+    port -> 443
+
+    BeautifulSoup4 -> pip install beautifulsoup4
+    url_images download
+
+amaliy qiladigan ish :
+
+    kun.uz -> saitdan malumotlarni olish
+
+qo'shimcha:
+    database dan backup olish
+
+Uyga vazifa:
+
+    bot command -> /save_news:
+
+            qalampir.uz , daryo.uz
+                5 ta , 5 ta yangilik olib database ga saqlash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
