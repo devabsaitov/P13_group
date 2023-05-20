@@ -32,6 +32,10 @@ Uyga vazifa:
                 5 ta , 5 ta yangilik olib database ga saqlash
 
 
+    linux command
+    yml file
+
+
 
 
 
