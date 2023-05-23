@@ -1,0 +1,122 @@
+1) https://docs.docker.com/engine/install/ubuntu/
+2) https://docs.docker.com/desktop/install/ubuntu/
+(Mac:https://medium.com/crowdbotics/a-complete-one-by-one-guide-to-install-docker-on-your-mac-os-using-homebrew-e818eb4cfc3)
+
+3) https://docs.docker.com/desktop/get-started/#credentials-management-for-linux-users (sign in)
+4) https://phoenixnap.com/kb/docker-run-command-with-examples
+5) https://pandorafms.com/blog/docker-run/
+
+6) https://www.guru99.com/docker-tutorial.html (docker ni foydasi)
+7) https://vmware.github.io/vic-product/assets/files/html/1.1/vic_app_dev/container_operations.html
+8) https://www.baeldung.com/linux/
+
+
+       docker pull python:alpine -> images pull
+ 1073  docker run --name my_container -it python:alpine -> containers create
+ 1074  docker --version -> versiyasini chiqazadi
+ 1075  docker
+ 1076  docker run -> container create
+ 1077  docker history
+ 1078  docker container create test
+ 1079  dir
+ 1080  systemctl status docker.service -> docker status
+ 1081  docker ps
+ 1082  sudo group docker
+ 1083  sudo usermod -aG docker $USER
+ 1084  sudo groupadd docker
+ 1085  sudo usermod -aG docker $USER
+ 1086  sudo systemctl restart docker
+ 1087  sudo reboot
+ 1088  docker ps
+ 1089  docker login
+ 1090  docker pull python
+ 1091  docker pull python:3.9-alpine
+ 1092  docker run --name test_uchun python
+ 1093  docker run --name test_uchun python:3.11-alpine
+ 1094  docker ps -a
+ 1095  docker rm
+ 1096  docker rm test_uchun
+ 1097  docker ps -a
+ 1098  docker rm hello-world
+ 1099  docker rm competent_fermat
+ 1100  docker ps -a
+ 1101  docker -a
+ 1102  docker -d
+ 1103  docker images -a
+ 1104  docker images ls
+ 1105  docker images -a
+ 1106  docker images rm hello-world
+ 1107  docker images --help
+ 1108  docker images rm hello-world
+ 1109  docker image rm hello-world
+ 1110  docker image --help
+ 1111  docker images
+ 1112  docker images -a
+ 1113  docker --version
+ 1114  docker version
+ 1115  docker container --help
+ 1116  docker images -a
+ 1117  docker image rm python:3.11-alpine
+ 1118  docker images -a
+ 1119  docker pull python:3.11-alpine
+ 1120  docker images -a
+ 1121  docker run --name container_1 python:3.11-alpine
+ 1122  docker container
+ 1123  docker container -a
+ 1124  docker container ls
+ 1125  docker container lscp
+ 1126  docker container cp
+ 1127  docker containers -a
+ 1128  docker containers ps
+ 1129  docker container ps
+ 1130  docker run --name container_1 --help
+ 1131  docker containers
+ 1132  docker containers ps
+ 1133  docker container ps
+ 1134  docker run --name container_1 python:3.11-alpine
+ 1135  docker ps -a
+ 1136  docker run -d --name container_1_d python:3.11-alpine
+ 1137  docker ps -a
+ 1138  docker pull test:3.11-alpine
+ 1139  docker pull --help
+ 1140  docker pull -a test:3.11-alpine
+ 1141  docker pull test:3.11-alpine
+ 1142  docker login
+ 1143  sudo apt-get install apt-transport-https ca-certificates curl software-properties-common
+ 1144  docker ps -a
+ 1145  sudo docker rm f0
+ 1146  docker ps
+ 1147  docker ps -a
+ 1148  docker ps
+ 1149  docker rm container_1
+ 1150  docker ps
+ 1151  docker ps -a
+ 1152  docker run --name con_1 -it python:3.11-alpine
+ 1153  docker start con_1
+ 1154  docker ps
+ 1155  docker run -d --name con_1_d -it python:3.11-alpine
+ 1156  docker ps
+ 1157  docker exec -it con_1 python
+ 1158  docker exec -it con_1 sh
+ 1159  touch test.txt
+ 1160  echo "hello world" > test.txt
+ 1161  cat test.txt
+ 1162  docker cp test.txt con_1:/test/
+ 1163  docker exec -it con_1 sh
+ 1164  docker stop con_1
+ 1165  docker stop con_1_d
+ 1166  docker ps
+ 1167  docker ps -a
+ 1168  docker rm con_1
+ 1169  docker rm con_1_d
+ 1170  docker ps -a
+ 1171  docker run -d --name test1 python:3.11-alpine
+ 1172  docker run -d --name test2 python:3.11-alpine
+ 1173  docker run -d --name test3 python:3.11-alpine
+ 1174  docker exec -it test1 sh
+ 1175  docker start test1
+ 1176  docker exec -it test1 sh
+ 1177  docker rm test1
+
+
+

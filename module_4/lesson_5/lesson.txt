@@ -1,0 +1,55 @@
+1)
+
+   text = "123(tuu)kill(remove)power(off)"
+
+        javob:     123uutkillevomerpowerffo
+
+
+docker : ✅
+
+    images
+    containers
+    Dockerfile
+
+
+amaliy qiladigan ish :
+
+    3 ta containeer yaratish va container ichiga test1/test1.txt yaratish
+
+
+Uyga vazifa:
+
+    1)https://pagertree.com/blog/docker-commands-cheat-sheet
+    2)simple tg-bot ni containerga joylab ishlatib kelish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
