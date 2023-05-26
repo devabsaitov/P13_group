@@ -1,0 +1,41 @@
+version: '3.8'
+
+services:
+  bot:
+    build: .
+    working_dir: /apps
+    container_name: aiogram_bot
+    environment:
+      DATABASE: postgres
+      DB_HOST: pg
+      DB_PORT: 5432
+    env_file:
+      - .env
+    command: python main.py
+    depends_on:
+      - pg
+  pg:
+    image: postgres:14.1-alpine
+    restart: always
+    container_name: my_postgres
+    environment:
+      - POSTGRES_PASSWORD=1
+    volumes:
+      - pg_data:/var/lib/postgresql/data/
+    ports:
+      - "5432:5432"
+
+volumes:
+  pg_data:
+
+# docker-compose build   (image)
+# docker-compose up      (container)
+
+# docker-compose down
+# docker-compose down -v
+
+# dvdrental
+#
+# docker rm my_postgres
+# stop
+# remove

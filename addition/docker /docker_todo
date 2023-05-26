@@ -85,8 +85,8 @@ check
             docker pull image_name:alpine/latest/3.10-alpine -> internetdan olib keladi
             Dockerfile
 
-Dockerfile -> 1 ta image yarata olasiz
-docker-compose -> 1 ta compda n ta container -> 1)code 2)postgres
+Dockerfile -> 1 ta image yarata olasiz    ✅
+docker-compose -> 1 ta compda n ta container -> 1)code 2)postgres   ✅
 docker-swarm -> n ta compda n ta container ->
 
 

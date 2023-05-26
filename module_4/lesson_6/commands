@@ -1,0 +1,168 @@
+ 804  docker-compose --version
+  805  sudo curl -L "https://github.com/docker/compose/releases/download/1.26.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+  841  sudo chmod o+w /etc/docker/
+  842  touch /etc/docker/daemon.json
+  843  cat /etc/docker/daemon.json
+  844  nano /etc/docker/daemon.json
+  845  DOCKER_BUILDKIT=1
+  846  history
+  847  echo $DOCKER_BUILDKIT
+  848  docker-compose build
+  849  docker-compose up
+  850  docker-compose down
+  851  docker ps
+  852  docker image ls
+  853  docker rmi bc32b31cb3b4 e97fc153a0a9
+  854  docker-compose build .
+  855  docker-compose build
+  856  docker-compose build
+  857  DOCKER_BUILDKIT=1 docker build .
+  858  DOCKER_BUILDKIT=1 docker-compose build
+  859  docker-compose build
+  860  docker-compose build --no-cache
+  861  docker-compose up
+  862  docker-compose down
+  863  docker image ls
+  864  docker rmi 63de78e0ecf8 2e5641dfbddd a50bccd96e3e c2ce10d99b9a 8ae42bb7b0c9
+  865  docker-compose build
+  866  DOCKER_BUILDKIT=1 docker build .
+  867  docker-compose up
+  868  echo $DOCKER_BUILDKIT
+  869  cat $DOCKER_BUILDKIT
+  870  echo $DOCKER_BUILDKIT
+  871  nano $DOCKER_BUILDKIT
+  872  echo $DOCKER_BUILDKIT
+  873  docker-compose version
+  874  cd /
+  875  ls
+  876  cd etc
+  877  ls
+  878  cd docker/
+  879  ls
+  880  chmon
+  881  chcon
+  882  chcon .
+  883  chmod .
+  884  chmod +x .
+  885  chmod +x /etc/docker/
+  886  chmod +x +u /etc/docker/
+  887  chmod +x /etc/docker
+  888  docker-compose build
+  889  cd /
+  890  cd home/
+  891  cd dilshod/
+  892  cd PycharmProjects/
+  893  cd bot_project/
+  894  docker-compose build
+  895  DOCKER_BUILDKIT=1 docker-compose build .
+  896  DOCKER_BUILDKIT=1 docker-compose build
+  897  docker-compose build --no-cache
+  898  docker-compose build
+  899  docker-compose up
+  900  docker image ls
+  901  docker rmi b5964ab2179a 4a3b51e50f24 ff47fa0f87a7 8e45e1b0da7b 4b5be3132041 91063b0633cd e264309899bb 8c3edb6b41d8 d296bc01c2e2 18ef48687b05 522f38a311ce
+  902  docker ps
+  903  docker ps -a
+  904  docker-compose build
+  905  pip install --upgrade pip
+  906  docker image ls
+  907  docker-compose up
+  908  docker-compose down
+  909  docker image ls
+  910  docker rmi 49ca7c26a610
+  911  docker-compose build
+  912  docker-compose up
+  913  docker image ls
+  914  docker rmi 4cad1cfd432e
+  915  docker-compose build
+  916  docker-compose up
+  917  docker-compose build
+  918  docker-compose up
+  919  docker-compose down
+  920  docker-compose build
+  921  docker-compose down
+  922  docker-compose up
+  923  docker-compose down
+  924  docker-compose build
+  925  docker-compose up
+  926  docker image ls
+  927  docker rmi 1149d285a5f5
+  928  docker-compose down
+  929  docker rmi 1149d285a5f5
+  930  docker image ls
+  931  docker
+  932  docker-compose build
+  933  docker-compose up
+  934  docker-compose down
+  935  docker-compose build
+  936  docker-compose up
+  937  docker-compose down
+  938  docker-compose build
+  939  docker-compose up
+  940  docker-compose down
+  941  docker-compose build
+  942  docker-compose up
+  943  docker image ls
+  944  docker rmi d1d9adac883e e43127c29fea 8872ecd23d88 65d0b4550536
+  945  docker ps
+  946  docker-compose down
+  947  docker rmi d1d9adac883e e43127c29fea 8872ecd23d88 65d0b4550536
+  948  docker-compose build
+  949  docker-compose up
+  950  sudo update-rc.d postgresql disable
+  951  docker-compose down
+  952  docker-compose build
+  953  docker-compose up
+  954  docker-compose down
+  955  docker-compose build
+  956  docker-compose up
+  957  docker-compose down
+  958  docker-compose build
+  959  docker-compose up
+  960  docker-compose build
+  961  docker-compose down
+  962  docker-compose build
+  963  docker-compose up
+  964  history
+  965  docker build -t img_bot .
+  966  pip3 install --upgrade pip
+  967  docker build -t img_bot .
+  968  docker-compose build
+  969  sudo apt-get remove docker-compose
+  970  sudo rm /usr/local/bin/docker-compose
+  971  pip uninstall docker-compose
+  972  mkdir -p ~/.docker/cli-plugins/
+  973  curl -SL https://github.com/docker/compose/releases/download/v2.3.3/docker-compose-linux-x86_64 -o ~/.docker/cli-plugins/docker-compose
+  974  chmod +x ~/.docker/cli-plugins/docker-compose
+  975  docker compose version
+  976  docker-compose build
+  977  sudo apt-get remove docker-compose
+  978  sudo rm /usr/local/bin/docker-compose
+  979  pip uninstall docker-compose
+  980  https://medium.com/@knoldus/self-hosted-deployment-of-sentry-over-aws-43e6bff8fd7c
+  981  sudo curl -L "https://github.com/docker/compose/releases/download/v2.3.3/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+  982  sudo chmod +x /usr/local/bin/docker-compose
+  983  docker-compose build
+  984  docker-compose build --no-cache
+  985  docker-compose build
+  986  docker image ls
+  987  docker compose up -d build
+  988  docker compose up -d --build
+  989  docker compose loge bot
+  990  docker compose log bot
+  991  docker compose -f log bot
+  992  docker compose log -f bot
+  993  docker compose logs -f bot
+  994  docker compose ps
+  995  docker compose down -v
+  996  docker compose build
+  997  docker exec -i app_db_1 psql -U postgres < app_development.back
+  998  docker exec -i my_postgres psql -U postgres
+  999  docker compose ps
+ 1000  docker compose up
+ 1001  docker compose ps
+ 1002  docker compose up
+ 1003  docker compose up -d --build
+ 1004  docker compose build
+ 1005  hisotory
+ 1006  history

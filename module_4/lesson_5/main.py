@@ -1,4 +1,4 @@
-text = "(123)(tuu)kill(remove)power(off)"
+# text = "(123)(tuu)kill(remove)power(off)"
 
 # 1 version
 # s = text.split("(")
@@ -9,4 +9,4 @@ text = "(123)(tuu)kill(remove)power(off)"
 # print(result)
 
 # 2 version
-print("".join([text.split('(')[0]] + list(map(lambda x :  x[:x.find(')')][::-1]+x[x.find(')')+1:], text.split('(')[1:]))))
+# print("".join([text.split('(')[0]] + list(map(lambda x :  x[:x.find(')')][::-1]+x[x.find(')')+1:], text.split('(')[1:]))))

@@ -1,0 +1,27 @@
+1)
+
+        1) https://leetcode.com/problems/median-of-two-sorted-arrays/
+
+docker : ✅
+sudo curl -L "https://github.com/docker/compose/releases/download/v2.18.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+    docker-compose
+        1) docker-compose version
+          1  sudo chmod o+w /etc/docker/
+          2  touch /etc/docker/daemon.json
+          3  cat /etc/docker/daemon.json
+          4  nano /etc/docker/daemon.json
+
+
+amaliy qiladigan ish :
+
+
+    tashab berilgan tg bot proectni  docker compose da run qilish
+
+
+Uyga vazifa:
+
+
+
+
+
+
