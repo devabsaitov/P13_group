@@ -1,0 +1,33 @@
+1)
+
+        1) https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/
+
+docker hub : ✅
+
+docker tag tg_bot_my_project:latest dilshodev/my_bot:alpine
+docker push dilshodev/my_bot:alpine
+
+docker pull dilshodev/my_bot:alpine
+
+    1) create repository from docker hub
+    2) database ni filega dump qilish -> terminalda
+
+
+amaliy qiladigan ish :
+
+    biror projectimizni docker hub ga yuklab sherigimiz notebookida ishlatish
+
+Uyga vazifa:
+
+    1) leetcode dan 3 ta misol lyuboy birontasini
+    2) imtihonga kirish uchun :
+        TOKEN="my_token" docker compose up --build
+
+
+
+
+
+
+
+
+

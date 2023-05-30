@@ -9,13 +9,12 @@ services:
       DATABASE: postgres
       DB_HOST: pg
       DB_PORT: 5432
-    env_file:
-      - .env
+
     command: python main.py
     depends_on:
       - pg
   pg:
-    image: postgres:14.1-alpine
+    image: postgres:15.2-alpine
     restart: always
     container_name: my_postgres
     environment:

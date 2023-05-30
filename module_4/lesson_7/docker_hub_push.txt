@@ -1,0 +1,2 @@
+docker tag exam_django:latest dilshodev/exam:1.0-alpine
+docker push dilshodev/exam:1.0-alpine

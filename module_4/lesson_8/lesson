@@ -1,0 +1,30 @@
+
+MultiThreading and MultiProcessing :
+
+    1) MultiThreading -> Thread , Lock , start , join
+    2) MultiProcessing -> Process , Pool
+    3) async
+
+
+amaliy qiladigan ish :
+
+    1) https://jsonplaceholder.typicode.com/  -> |posts , comments , albums , todos , users| request qilib jsonga saqlash
+
+
+Uyga vazifa:
+    1) Leetcode 3 ta
+    2) Tg Bot Proectlarimizdan bitta donasini function larni async yozamiz
+    3) httpx kutibxona orqali 10 ta web saitga get request yuboramiz va qaytgan malumotlarni txt filga saqlimiz (thread or process)
+
+
+
+
+
+
+
+
+
+
+
+
+

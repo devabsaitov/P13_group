@@ -8,3 +8,16 @@ ssh-keygen -t rsa -b 4096 -C "absaitovdev@gmail.com"
 
 
 cat ~/.ssh/id_rsa.pub
+
+
+
+dvdrental tasks :
+    filmlardagi aktorlarni chiqarish kerak
+    film_id | film_name | actors
+
+    1       | Data Speed | Wahlberg ....
+
+
+har bir tildagi aktorlar sonini chiqarish
+
+maktabni db sini tuzish , teacher() , student() , object()
