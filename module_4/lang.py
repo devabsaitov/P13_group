@@ -1,15 +1,18 @@
-import barcode
-from barcode.writer import ImageWriter
-
-# Generate a barcode image
-barcode_value = "123456789101"  # Replace with your desired barcode value
-barcode_image = barcode.get_barcode_class('ean13')
-barcode_image = barcode_image(barcode_value, writer=ImageWriter())
-
-# Save the barcode image
-barcode_filename = 'barcode.png'  # Replace with your desired filename
-barcode_image.save(barcode_filename)
-
+# import barcode
+# from barcode.writer import ImageWriter
+#
+# # Generate a barcode image
+# barcode_value = "123456789101"  # Replace with your desired barcode value
+# barcode_image = barcode.get_barcode_class('ean13')
+# barcode_image = barcode_image(barcode_value, writer=ImageWriter())
+#
+# # Save the barcode image
+# barcode_filename = 'barcode.png'  # Replace with your desired filename
+# barcode_image.save(barcode_filename)
+#
+#
+#
+#
 # import qrcode
 #
 # # Generate a QR code
@@ -24,3 +27,18 @@ barcode_image.save(barcode_filename)
 # # Save the QR code image
 # qr_filename = 'qrcode.png'  # Replace with your desired filename
 # qr_image.save(qr_filename)
+
+
+import redis
+
+
+db = redis.Redis(host = "localhost" , port = 6379,decode_responses=True)
+
+# db.set("1" , "Ikki")
+print(db.get("1"))
+
+
+
+# print(db.get("1").decode("utf-8"))
+
+

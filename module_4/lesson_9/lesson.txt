@@ -1,0 +1,34 @@
+misol :
+    1) https://leetcode.com/problems/two-sum/
+
+
+
+Mavzular:
+    1) Context Manager
+    2) QR code
+    3) compdan compga ulanish
+    4) Makefile
+    5) email dan email file yuborish
+    6) redis
+
+
+topshiriq:
+    1) (Ixtiyoriy) tg dan foyadalanuvchini malumotlarini redis ga saqlaymiz
+
+
+Uyga vazifa :
+    1) QR code yasab beruvchi BOT
+    2) DB class ni Context Manager ga aylantiramiz
+    5) https://jsonplaceholder.typicode.com/          posts , comments , albums , photos , todos , users  redisga saqlimiz
+    6) Hamma o'zi uchun self_study project ochadi va shu vaqtgacha nima o'tgan bulsak filga o'zimizga tushunarli holatda malumotlarni yozamiz
+       docker , email , Context manager , QR code , redis , copm from comp connect , Makefile , Git Hub , Postgres , OOP ,
+
+
+
+
+
+
+
+
+
+
