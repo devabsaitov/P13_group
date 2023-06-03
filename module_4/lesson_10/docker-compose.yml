@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  cache:
+
+    image: redis:7.0.11-alpine
+    restart: always
+    container_name: my_redis1
+    command: redis-server /usr/local/etc/redis/redis.conf
+    ports:
+      - "6380:6379"
+    volumes:
+      - ./data:/data
+      - ./redis.conf:/usr/local/etc/redis/redis.conf
+    depends_on:
+      - cache2
+      - cache3
+
+

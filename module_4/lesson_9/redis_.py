@@ -2,11 +2,10 @@
 from datetime import timedelta
 
 import redis
-from PIL.Image import msg
 
-con = redis.Redis(host = 'localhost', port = 6379 , decode_responses=True)
+con = redis.Redis(host = 'localhost', port = '6381')
 
-con.hset("user_id" , mapping={"first_name":msg.from_user.first_name , "last_name":msg.from_user.last_name})
+con.hset("user_id" , mapping={"first_name":"Botirjon" , "last_name":"Doe"})
 con.hgetall("user_id")
 
 dict_ = {
