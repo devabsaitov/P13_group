@@ -24,8 +24,6 @@ from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup, InputMedia
 
 con = redis.Redis(host='localhost', port = 6380,decode_responses=True)
 
-
-
 import logging
 from aiogram import Bot, Dispatcher, executor, types
 #

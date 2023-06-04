@@ -1,0 +1,31 @@
+version: "3.11"
+
+
+services:
+  tg_bot:
+    build: .
+    environment:
+      TOKEN: 5981596441:AAH7aFeTq_oAJkfSOaGh-l7O38AWw_TY-V4
+      redis_h: redis
+      redis_p: 6379
+      DATABASE: redis
+    command: python main.py
+    depends_on:
+      - redis
+    volumes:
+      - tg_data:/data
+  redis:
+    image: redis:7.0.11-alpine
+    container_name: redis_con
+    command: redis-server /usr/local/etc/redis/redis.conf
+    ports:
+      - "6379:6379"
+    volumes:
+      - ./data:/data
+      - ./redis.conf:/usr/local/etc/redis/redis.conf
+
+volumes:
+  tg_data:
+
+
+
