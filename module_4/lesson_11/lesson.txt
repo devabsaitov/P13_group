@@ -1,0 +1,29 @@
+prizintatsiya :
+     Abdulhafiz , Zikrillo   -> yml , excel
+
+
+Mavzular:
+    1) webhook + aiogram
+    2) logging + python
+
+
+
+topshiriq:
+    1) 3 hil portda ngrok ni run qililish (3002, 3003, 3004)
+
+
+Uyga vazifa :
+
+   IMTIHON : docker-compose , git hub , email , tg_bot , Thread , Process , async , webhook , ssh
+
+
+
+
+
+
+
+
+
+
+
+

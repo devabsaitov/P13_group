@@ -17,6 +17,8 @@ dp = Dispatcher(bot, storage=MemoryStorage())
 
 con = redis.Redis(host=os.getenv("redis_h"), port=os.getenv("redis_p"))
 
+
+
 response = httpx.get("https://jsonplaceholder.typicode.com/photos")
 dates = json.loads(response.content)[:10]  #
 con.set("products", json.dumps(dates))
