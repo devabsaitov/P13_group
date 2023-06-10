@@ -1,0 +1,57 @@
+1)
+
+    1) Counter()
+
+postgres:
+    1) psql commands
+        \l              - > database list
+        \du             - > user list
+        \c database     -> database enter
+        \d table_name   -> table about
+        \dt+            - > table list
+        \dv             - > view list
+        \di             - > index list
+        \df             -> function list
+
+
+    2) pg_restore database
+
+amaliy qiladigan ish :
+
+    1) dvdrental database ni restore qilamiz
+
+Uyga vazifa:
+
+    1) dvdrental:
+        savol : har bir categoryni va o'sha categoriyaga tegishli filmlarni select qilamiz
+        savol : category da filmlarining soni kup buganini nomini va nechta filmi borligini select qilamiz
+        savol : customer lardan eng kup to'lov qilgan top 5 tasini select qilamiz
+        savol : eng kup staff i bulgan store ni to'liq locationini select qilamiz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

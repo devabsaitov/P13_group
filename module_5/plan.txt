@@ -1,0 +1,24 @@
+
+"""
+
+Advanced Database:
+    1) psql commands
+    2) Subquery
+    3) Modifying Data
+    4) TransaBackup & Restorection
+    5) Import & Export Data
+    6) Managing Tables
+    7) Views
+    8) Indexes
+    9) Adminstration
+            Managing Databases
+            Roles & Privileges
+            Backup & Restore
+
+
+
+2) pydantic
+   sqlalchemy ORM
+   peewee ORM
+
+"""

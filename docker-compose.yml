@@ -21,7 +21,7 @@
 # docker-compose down -v
 
 # dvdrental
-#
+
 # docker rm my_postgres
 # stop
 # remove

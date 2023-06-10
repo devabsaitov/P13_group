@@ -17,7 +17,6 @@
     (multiprocessing, async)
 
 
-4) sqlalchemy
-   pydantic
+
 
 """
