@@ -1,0 +1,94 @@
+1)
+    1) https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/
+
+postgres:
+    1) Constraints:
+        foreign key
+        primary key
+
+    2)Generate a Random Number:
+        generate_series
+        random
+        md5
+
+    4) PostgreSQL ROLE:
+        create role
+        grant
+        revoke
+
+amaliy qiladigan ish :
+
+    1) yangi ismimiz bilan role yaratamiz va random 10 ta malumotni user(id , fullname, money  , birthdate) tablega saqlimiz
+
+
+Uyga vazifa:
+
+    1) compdan compga ulanib postgresiga yangi ismimiz bilan role yaratamiz va random 1000000 ta malumotni user(id , fullname, money  , birthdate) tablega saqlimiz
+    2) https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-subquery/
+    3)  SELECT
+        Column Aliases
+        ORDER BY
+        SELECT DISTINCT
+        WHERE
+        LIMIT
+        FETCH
+        IN
+        BETWEEN
+        LIKE
+        IS NULL
+        Table Aliases
+        Joins
+        INNER JOIN
+        LEFT JOIN
+        RIGHT JOIN
+        SELF-JOIN
+        FULL OUTER JOIN
+        Cross Join
+        Natural Join
+        GROUP BY
+        UNION
+        INTERSECT
+        HAVING
+        GROUPING SETS
+        CUBE
+        ROLLUP
+        Subquery
+        ANY
+        ALL
+        EXISTS
+        INSERT
+        INSERT Multiple Rows
+        UPDATE
+        UPDATE Join
+        DELETE
+        DELETE Join
+        Upsert
+
+        qisqacha description yozib kelamiz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

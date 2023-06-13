@@ -1,17 +1,16 @@
 1)
-
     1) Counter()
 
 postgres:
     1) psql commands
         \l              - > database list
         \du             - > user list
-        \c database     -> database enter
-        \d table_name   -> table about
+        \c database     - > database enter
+        \d table_name   - > table about
         \dt+            - > table list
         \dv             - > view list
         \di             - > index list
-        \df             -> function list
+        \df             - > function list
 
 
     2) pg_restore database
