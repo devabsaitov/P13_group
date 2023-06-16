@@ -1,0 +1,59 @@
+1)
+    1) https://leetcode.com/problems/split-with-minimum-sum/solutions/3256275/python-2-lines/
+
+postgres & server:
+    index
+    view
+    tashqaridan kirivchi server portlarga ruhsat ochish
+
+amaliy qiladigan ish :
+
+    1) qaysi lang da eng ko'p film borligini topamiz (lang.name , count)
+    2) va shu query uchun TOP_lang degan view yaratamiz
+    3) 1000000 mln ta data yaratamiz !
+        STAFF
+            id
+            name
+            firstname
+            created_date (2000-2023 Oralig'ida)
+
+    4) docker terminalda 2016 yilda ishga olingan hodimlarni topamiz va qancha vaqta ketayotganini \timing da hisoblimiz
+
+
+
+Uyga vazifa:
+
+    1) postgres container yaratamiz va -p 6000:5432 qilamiz
+    2) va shu containerga boshqa compdan malumot joylab ko'ramiz (ixtiyoriy testiviy data va table)
+    3) 2 ta boshqa boshqa table larga index yaratamiz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
