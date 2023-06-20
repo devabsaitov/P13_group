@@ -1,0 +1,23 @@
+1)
+    1) https://leetcode.com/problems/majority-element/
+
+sqlalchemy ORM Object relational Mapping:
+    install
+    Connecting
+    Mapping
+    Creating a Session
+
+amaliy qiladigan ish :
+
+    dvdrental database dan qisman bulgan table larni sqlalchemy da qurish
+
+
+Uyga vazifa:
+
+    1) Kutibxona Projectini sqlalchemy da schemasini tuzamiz !
+    2) Dvdrental database -> sqlalchemy version
+
+
+
+
+

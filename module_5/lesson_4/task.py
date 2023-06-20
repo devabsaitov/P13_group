@@ -5,7 +5,9 @@ from email import encoders
 import smtplib
 import time
 import celery
+
 app = celery.Celery('hello', broker='redis://localhost:6379/0')
+
 
 @app.task
 def send_file(gmail):
@@ -44,7 +46,8 @@ def request_save_data():
     pass
 
 
-
-
+@app.task
+def send_message(bot, message, chat_id):
+    bot.send_message(chat_id , message)
 
 
